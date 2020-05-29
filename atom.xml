@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>shuan</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://shuanops.github.io/"/>
   <updated>2020-05-24T02:25:23.740Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://shuanops.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>newpapername</title>
-    <link href="http://yoursite.com/2020/05/24/newpapername/"/>
-    <id>http://yoursite.com/2020/05/24/newpapername/</id>
+    <link href="https://shuanops.github.io/2020/05/24/newpapername/"/>
+    <id>https://shuanops.github.io/2020/05/24/newpapername/</id>
     <published>2020-05-24T02:25:23.000Z</published>
     <updated>2020-05-24T02:25:23.740Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/24/hello-world/"/>
-    <id>http://yoursite.com/2020/05/24/hello-world/</id>
+    <link href="https://shuanops.github.io/2020/05/24/hello-world/"/>
+    <id>https://shuanops.github.io/2020/05/24/hello-world/</id>
     <published>2020-05-24T01:52:53.656Z</published>
     <updated>2020-05-24T01:52:53.656Z</updated>
     
